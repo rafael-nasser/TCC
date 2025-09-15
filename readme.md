@@ -63,16 +63,6 @@ docker-compose.yml
 
 ---
 
-## Usuário padrão
-```
-Usuário: admin@exemplo.com
-Senha : senhas123
-```
-
-> Você pode alterar depois via banco ou adicionando lógica de edição de usuário.
-
----
-
 ## Banco de dados (acesso via container)
 
 ```bash
